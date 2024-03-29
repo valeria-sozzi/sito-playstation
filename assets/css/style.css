@@ -3,6 +3,27 @@ header>.sony>img{
 
 }
 
-.arrow:active{
+.show .arrow {
+    transform: rotate(180deg);
     color:  #3b9de8;
+}
+
+.dropdown-menu[data-bs-popper] {
+    top:90%
+}
+.jumbotron{
+    background-image: url("/assets/img/jumbo-bg.png");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+.card-banner{
+   position: relative; 
+   transition: all 1s;
+}
+
+.card-banner:hover{
+    top:-20px;
+
 }
