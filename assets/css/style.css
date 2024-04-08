@@ -15,7 +15,7 @@ header>.sony>img{
     background-image: url("/assets/img/jumbo-bg.png");
     background-size: cover;
     background-position: center;
-    height: 800px;
+    height: 700px;
 }
 
 .card-banner{
@@ -37,4 +37,20 @@ header>.sony>img{
     background-size: cover;
     background-position: center;
     height: 600px;
+}
+
+.games{
+    background-color: #000000db;
+}
+
+.apice_r{
+    font-size: 0.7rem;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 2px;
+    vertical-align: super;
+}
+
+.fs_8{
+    font-size: 0.8rem;
 }
