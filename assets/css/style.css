@@ -15,15 +15,26 @@ header>.sony>img{
     background-image: url("/assets/img/jumbo-bg.png");
     background-size: cover;
     background-position: center;
-    height: 600px;
+    height: 800px;
 }
 
 .card-banner{
    position: relative; 
-   transition: all 1s;
 }
 
 .card-banner:hover{
     top:-20px;
+    transition: all 1s;
+}
 
+.console .row>.border_hover:hover{
+    border-color:#0c6efd;
+    border-width: 3px;
+}
+
+.second_jumbotron{
+    background-image: url("/assets/img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
 }
