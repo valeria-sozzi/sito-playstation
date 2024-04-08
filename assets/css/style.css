@@ -54,3 +54,13 @@ header>.sony>img{
 .fs_8{
     font-size: 0.8rem;
 }
+
+.package_plus{
+    background-color: #80808087;
+    height: 335px;
+}
+
+.ps_now{
+    background-color: #1b1b55;
+    height: 340px;
+}
