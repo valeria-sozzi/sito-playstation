@@ -67,3 +67,24 @@ header>.sony>img{
     max-width: 740px;
     margin: auto;
 }
+
+#site-footer{
+    background-color: #0648a9;
+}
+
+footer ul{
+    list-style: none;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+footer li{
+    padding-bottom: 1rem;
+}
+
+.info{
+    text-decoration: underline;
+}
