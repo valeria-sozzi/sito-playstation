@@ -1,0 +1,81 @@
+header>.sony>img{
+    height: 35px;
+
+}
+.container{
+    max-width: 1700px;
+    margin: auto;
+}
+
+.show .arrow {
+    transform: rotate(180deg);
+    color:  #3b9de8;
+}
+
+.dropdown-menu[data-bs-popper] {
+    top:90%
+}
+.fs_8{
+    font-size: 0.8rem;
+}
+
+.fs_11{
+    font-size: 1.1rem;
+}
+.login{
+    background-color: #040426;
+}
+
+.login>.container{
+    padding: 5rem;
+    max-width: 900px;
+}
+
+.login i{
+    font-size: 3rem;
+    border: 4px solid #0648a9;
+    border-radius: 50%;
+    padding: 20px;
+    background-color: white;
+    margin: 3rem;
+}
+
+.apice_r{
+    font-size: 0.7rem;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 2px;
+    vertical-align: super;
+}
+
+.opinion{
+    background-color: #040426
+}
+
+.user{
+    font-size: 2rem;
+    border-radius: 50%;
+    padding: 20px;
+    background-color: white;
+}
+
+#site-footer{
+    background-color: #0648a9;
+}
+
+footer ul{
+    list-style: none;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+footer li{
+    padding-bottom: 1rem;
+}
+
+.info{
+    text-decoration: underline;
+}
